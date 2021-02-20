@@ -1,5 +1,5 @@
 # Klipper_Flsun_Q5
-This is my Flsun Q5 config for Klipper. __My Flsun Q5 is not stock__, I changed the extruder driver to TMC2209 and enabled UART mode for ale axis and extruder.
+This is my Flsun Q5 config for Klipper. __My Flsun Q5 is not stock__, I changed the extruder driver to TMC2209 and enabled UART mode for all axis and extruder.
 Use this config on your own risk!
 __Use it on your own risk!__
 
