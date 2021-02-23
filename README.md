@@ -2,6 +2,7 @@
 This is my Flsun Q5 config for Klipper. __My Flsun Q5 is not stock__, I changed the extruder driver to TMC2209 and enabled UART mode for all axis and extruder.
 Use this config on your own risk!
 __Use it on your own risk!__
+For stock Flsun Q5 it is advised to change microstep setting to 16 and other changes that I might not know about may be necessary.
 
 ## What to check:
 ### 1. Remove my auto-config values
