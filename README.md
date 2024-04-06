@@ -1,6 +1,17 @@
 # Klipper_Flsun_Q5
-This is my Flsun Q5 config for Klipper. __My Flsun Q5 is not stock__, I changed the extruder driver to TMC2209 and enabled UART mode for all axis and extruder.
-Use this config on your own risk!
+This is my Flsun Q5 config for Klipper. __My Flsun Q5 is not stock__, it has:
+- built in Raspberry Pi 3 runnin Klipper inside with 5 inch 800*480 IPS TFT screen 
+- Makerbase MKS Robin Nano v3 board
+- TMC2209 drivers on all axes and extruder 
+- Trianglelab TCHC TD6 PT1000 Hotend
+- Trianglelab Dual Drive Extruder (BMG clone)
+- Trianglelab Titanium alloy Bi-Metal Heatbreak
+- Trianglelab hotend PTFE Tube
+- Noctua fan for board cooling and Sunon fan for hotend
+- LED lights driven by Wemos D1 mini board with ESPHome (Home Assistant)
+
+
+  
 __Use it on your own risk!__
 For stock Flsun Q5 it is advised to change microstep setting to 16 and other changes that I might not know about may be necessary.
 
@@ -54,3 +65,4 @@ You can find my accelerometer mount design for Flsun Q5 here: https://www.thingi
 - perform [delta calibration](https://github.com/KevinOConnor/klipper/blob/master/docs/Delta_Calibrate.md)
 - create [bed mesh](https://github.com/KevinOConnor/klipper/blob/master/docs/Bed_Mesh.md)
 - calibrate input_shaper and pressure advance
+- calibrate hotend and bed PID
