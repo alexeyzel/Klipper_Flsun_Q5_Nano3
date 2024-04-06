@@ -1,4 +1,4 @@
-# Klipper_Flsun_Q5
+# Klipper Flsun Q5
 This is my Flsun Q5 config for Klipper. __My Flsun Q5 is not stock__, it has:
 - built in Raspberry Pi 3 runnin Klipper inside with 5 inch 800*480 IPS TFT screen 
 - Makerbase MKS Robin Nano v3 board
