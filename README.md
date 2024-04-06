@@ -1,4 +1,7 @@
 # Klipper Flsun Q5
+
+![My modded Flsun Q5](https://github.com/alexeyzel/Klipper_Flsun_Q5_Nano3/blob/ad1d8ee9f0fcdccfc04f6bb5132da1367700b7f4/myQ5.png)
+
 This is my Flsun Q5 config for Klipper. __My Flsun Q5 is not stock__, it has:
 - built in Raspberry Pi 3 runnin Klipper inside with 5 inch 800*480 IPS TFT screen 
 - Makerbase MKS Robin Nano v3 board
@@ -9,8 +12,7 @@ This is my Flsun Q5 config for Klipper. __My Flsun Q5 is not stock__, it has:
 - Trianglelab hotend PTFE Tube
 - Noctua fan for board cooling and Sunon fan for hotend
 - LED lights driven by Wemos D1 mini board with ESPHome (Home Assistant)
-
-
+- 5MP USB Webcam
   
 __Use it on your own risk!__
 For stock Flsun Q5 it is advised to change microstep setting to 16 and other changes that I might not know about may be necessary.
