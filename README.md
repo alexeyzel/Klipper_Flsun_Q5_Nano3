@@ -58,7 +58,7 @@ shaper_freq_y: 40.0
 shaper_type_y: 2hump_ei
 ```
 You have to do your own calibration of these values, u used ADXL345 accelerometer to get those.
-You can find my accelerometer mount design for Flsun Q5 here: https://www.thingiverse.com/thing:4765232
+You can find my accelerometer mount design for Flsun Q5 here: https://www.printables.com/model/414147-adxl345-mount-for-flsun-q5-klipper-calibration
 
 ### 4. Do your own auto-calibration
 
@@ -70,4 +70,5 @@ You can find my accelerometer mount design for Flsun Q5 here: https://www.thingi
 - calibrate hotend and bed PID
 
 ### Models I used for my Q5
+Including spool holder, screen holder, camera holder etc:
 https://www.printables.com/@OleksiiZelivianskyi/collections/528451
