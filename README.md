@@ -68,3 +68,6 @@ You can find my accelerometer mount design for Flsun Q5 here: https://www.thingi
 - create [bed mesh](https://github.com/KevinOConnor/klipper/blob/master/docs/Bed_Mesh.md)
 - calibrate input_shaper and pressure advance
 - calibrate hotend and bed PID
+
+### Models I used for my Q5
+https://www.printables.com/@OleksiiZelivianskyi/collections/528451
